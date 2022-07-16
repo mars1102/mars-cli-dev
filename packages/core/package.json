@@ -1,0 +1,19 @@
+{
+  "name": "@mars-common/core",
+  "version": "0.0.0",
+  "description": "mars-common core",
+  "author": "许智勇 <xuzhiyong1102@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
