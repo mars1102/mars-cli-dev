@@ -1,6 +1,6 @@
 {
   "name": "@mars-common/utils",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "许智勇 <xuzhiyong1102@gmail.com>",
   "homepage": "",
@@ -15,5 +15,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
